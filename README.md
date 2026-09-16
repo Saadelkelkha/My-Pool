@@ -92,9 +92,3 @@ The main objectives of this Piscine were to:
 The **42 Piscine** is an intensive selection and learning program designed around peer learning, practical exercises, and self-directed problem solving. Instead of relying primarily on traditional lectures, participants learn by researching, experimenting, debugging, and collaborating with other students.
 
 This repository represents my progression through the C and Shell exercises completed during this experience.
-
----
-
-**Author:** Saad El Kelkha
-**Program:** 42 Piscine
-**Focus:** C Programming • Algorithms • Unix • Problem Solving
